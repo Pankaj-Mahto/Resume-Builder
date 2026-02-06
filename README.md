@@ -1,6 +1,3 @@
-Absolutely! I’ve taken your description and polished it into a professional, GitHub-ready README file with a clean structure, better readability, and added your deployed link. I also included sections like **Features**, **Technologies Used**, and **How to Use**. Here’s the final version:
-
----
 
 # Resume Builder App
 
@@ -122,7 +119,6 @@ npm install
 npm start
 ```
 
-The app will run on [http://localhost:3000](http://localhost:3000).
 
 ---
 
